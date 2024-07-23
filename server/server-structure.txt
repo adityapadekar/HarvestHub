@@ -1,0 +1,54 @@
+Admin Functions:
+    A] Admin
+        1. Add
+    B] Moderator  
+        1. Add
+        2. Update
+        3. Delete
+        4. Get All (with live search)
+    C] Market 
+        1. Add
+        2. Update
+        3. Delete
+    D] Product
+        1. Define Default
+        2. Update Defination
+    E] General
+        1. Get Operator (Moderator or Admin by Document ID)
+
+Moderator Functions
+    A] Product
+        1. Add
+        2. Update
+        3. Delete
+    B] Article
+        1. Add
+        2. Update
+        3. Delete
+
+User Functions
+    1. SignUp
+    2. Login
+    3. Verify-email
+    4. Update Profile
+    5. Forgot Password
+    6. Reset Password
+    7. Generate OTP 
+    8. Verify OTP
+
+Market Functions
+    1. Get One
+    2. Get All
+    3. Get Recommended
+    4. Get Favourites
+    5. Toggle Favourite
+
+Product
+    1. Get One
+    2. Get All Fruits
+    3. Get All Vegetables
+    4. Get Recommended Fruits
+    5. Get Recommended Vegetables
+    6. Get Favourites
+    7. Toggle Favourites
+
